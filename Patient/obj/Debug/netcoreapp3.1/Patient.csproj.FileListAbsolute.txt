@@ -1,0 +1,12 @@
+/Users/antonio/Projects/Patient/Patient/bin/Debug/netcoreapp3.1/Patient.deps.json
+/Users/antonio/Projects/Patient/Patient/bin/Debug/netcoreapp3.1/Patient.runtimeconfig.json
+/Users/antonio/Projects/Patient/Patient/bin/Debug/netcoreapp3.1/Patient.runtimeconfig.dev.json
+/Users/antonio/Projects/Patient/Patient/bin/Debug/netcoreapp3.1/Patient.dll
+/Users/antonio/Projects/Patient/Patient/bin/Debug/netcoreapp3.1/Patient.pdb
+/Users/antonio/Projects/Patient/Patient/obj/Debug/netcoreapp3.1/Patient.csprojAssemblyReference.cache
+/Users/antonio/Projects/Patient/Patient/obj/Debug/netcoreapp3.1/Patient.AssemblyInfoInputs.cache
+/Users/antonio/Projects/Patient/Patient/obj/Debug/netcoreapp3.1/Patient.AssemblyInfo.cs
+/Users/antonio/Projects/Patient/Patient/obj/Debug/netcoreapp3.1/Patient.csproj.CoreCompileInputs.cache
+/Users/antonio/Projects/Patient/Patient/obj/Debug/netcoreapp3.1/Patient.dll
+/Users/antonio/Projects/Patient/Patient/obj/Debug/netcoreapp3.1/Patient.pdb
+/Users/antonio/Projects/Patient/Patient/obj/Debug/netcoreapp3.1/Patient.genruntimeconfig.cache
